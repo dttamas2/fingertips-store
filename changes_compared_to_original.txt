@@ -1,0 +1,12 @@
+Changed hallo world header to Fingertips store, and removed it from the page. 
+Replaced the thicker line from the cart, and removed the one under the total order value. 
+Gave the item names more padding and less to the Total order value.
+Product cards are more rounded now.
+Added a plus field to the left top of the item -> discount %
+Moved the description icon to the right top of the item
+Alligned the the product name and prices to the middle, the original price is now under the name and crossed
+Added a plus icon to the cart button, and increased the size of the text
+Gave the product image a background to seem more separated
+Gave both the card and button hovering effects
+On the tooltip I have moved the key features section under the picture to fill the area more.
+And lastly on checkout the cart resets and the user will get rick rolled.

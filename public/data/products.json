@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Poly Edge 550",
+      "price": 1450,
+      "originalPrice": 1890,
+      "image": "/imgs/item1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Poly Edge E320",
+      "price": 2350,
+      "image": "/imgs/item2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Poly Edge B30",
+      "price": 875,
+      "originalPrice": 1200,
+      "image": "/imgs/item3.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nokia 3210",
+      "price": 3200,
+      "originalPrice": 3750,
+      "image": "/imgs/item4.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Blackwire 52xx",
+      "price": 950,
+      "originalPrice": 1150,
+      "image": "/imgs/item5.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Voyager 43xx",
+      "price": 1680,
+      "originalPrice": 2100,
+      "image": "/imgs/item6.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Savi 72xx",
+      "price": 2890,
+      "image": "/imgs/item7.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Voyager Free 60",
+      "price": 1420,
+      "originalPrice": 1650,
+      "image": "/imgs/item8.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "features": {
+        "Consectetur": "Adipiscing elit",
+        "Eiusmod": "Tempor incididunt",
+        "Labore": "Dolore magna aliqua",
+        "Veniam": "Quis nostrud",
+        "Exercitation": "Ullamco laboris",
+        "Excepteur": "Sint occaecat"
+      }
+    }
+  ]
+}
